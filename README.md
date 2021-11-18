@@ -7,7 +7,7 @@ Selve opgaverne findes [her](https://github.com/MortenSkovlundHolst/syddjursGym/
 
 Svaret på integralopgaven kan findes [her](https://github.com/MortenSkovlundHolst/syddjursGym/blob/main/Svar_på_integralspørgsmål.ipynb)
 
-De linkede opgaver kan køres i Google Colab via knappen: `Open in Colab`
+De linkede opgaver kan køres i Google Colab via knappen: `Open in Colab` øverst.
 
-## Ansvarsfraskrivelse
+### Ansvarsfraskrivelse
 Dette er lavet som en hjælp til at komme igang med python af mig, og KU er ikke tilknyttet hertil.
